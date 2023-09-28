@@ -1,0 +1,7 @@
+Doctor|10001|Dr|Arslan|123|arslan@123.com|12345|abc|56|xyz|new
+Patient|10003|kami|shami|123|abc@gmail.com|34545|lkhj|45|hgfdf|nnn
+Patient|10004|David|jim|123|david@gmail.com|34545|lkhj|45|hgfdf|nnn
+Patient|10003|xyz|LMN|123|xyz@gmail.com|12345|hgf|09|df|sdf
+Administrator|David|Adminson|10002|123
+Appointment|10001|10003|flu
+Appointment|10001|10004|atgjfkghjkdgfkgdkgfkdgf
